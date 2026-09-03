@@ -1,0 +1,86 @@
+PHASE 1 — FUNDAMENTALS
+│
+├── 01 Scene + Camera + Renderer        ✅ COMPLETE
+│
+├── 02 Geometries + Meshes 
+│
+      ├── Lesson 1 — Geometry Basics        ✅ COMPLETE
+
+      ├── Lesson 2 — Geometry Parameters    ← AB NEXT
+
+      ├── Lesson 3 — Segments
+
+      ├── Lesson 4 — Built-in Geometries
+
+      ├── Lesson 5 — Mesh & Geometry deeper
+
+      ├── Lesson 6 — BufferGeometry
+
+      └── Lesson 7 — Custom Geometry   
+│
+├── 03 Materials
+│
+├── 04 Textures
+│
+├── 05 Lights + Shadows                 ✅ Basics done
+│
+├── 06 Cameras — advanced
+│
+└── 07 Animation + Math                 ✅ Basics done
+│
+PHASE 2 — INTERACTION
+│
+├── OrbitControls
+├── Mouse / Keyboard
+├── Raycasting
+├── Object selection
+└── Click / Hover interactions
+│
+PHASE 3 — 3D ASSETS
+│
+├── GLTF / GLB
+├── LoadingManager
+├── DRACO
+├── Model animations
+└── HDRI / Environment
+│
+PHASE 4 — ADVANCED THREE.JS
+│
+├── Groups
+├── Object3D hierarchy
+├── Coordinate systems
+├── Vectors
+├── Euler / Quaternion
+├── Matrix basics
+├── Fog
+├── Environment
+├── Post-processing
+└── Performance optimization
+│
+PHASE 5 — REACT THREE FIBER
+│
+├── Canvas
+├── JSX 3D objects
+├── useFrame
+├── useThree
+├── refs
+├── Drei
+├── Controls
+├── Loaders
+└── R3F architecture
+│
+PHASE 6 — NEXT.JS
+│
+├── Client Components
+├── SSR considerations
+├── Dynamic imports
+├── Three.js + Next.js
+├── R3F + Next.js
+└── Production optimization
+│
+PHASE 7 — PROJECTS
+│
+├── Interactive 3D scene
+├── Product viewer
+├── 3D portfolio
+└── Job-level final project
