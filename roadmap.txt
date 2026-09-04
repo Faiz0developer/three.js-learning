@@ -6,9 +6,9 @@ PHASE 1 — FUNDAMENTALS
 │
       ├── Lesson 1 — Geometry Basics        ✅ COMPLETE
 
-      ├── Lesson 2 — Geometry Parameters    ← AB NEXT
+      ├── Lesson 2 — Geometry Parameters    ✅ COMPLETE
 
-      ├── Lesson 3 — Segments
+      ├── Lesson 3 — Segments               ← AB NEXT    
 
       ├── Lesson 4 — Built-in Geometries
 
