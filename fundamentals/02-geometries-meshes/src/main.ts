@@ -2,7 +2,8 @@ import * as THREE from "three";
 import "./style.css";
 // import "./parameters";
 // import "./segments";
-import "./built-in-geometries";
+// import "./built-in-geometries";
+import "./buffer-geometry";
 
 // const scene = new THREE.Scene();
 

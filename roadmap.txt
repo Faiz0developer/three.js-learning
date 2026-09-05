@@ -10,11 +10,11 @@ PHASE 1 — FUNDAMENTALS
 
       ├── Lesson 3 — Segments               ✅ COMPLETE
 
-      ├── Lesson 4 — Built-in Geometries    ← AB NEXT    
+      ├── Lesson 4 — Built-in Geometries    ✅ COMPLETE
 
-      ├── Lesson 5 — Mesh & Geometry deeper
+      ├── Lesson 5 — Mesh & Geometry deeper ✅ COMPLETE
 
-      ├── Lesson 6 — BufferGeometry
+      ├── Lesson 6 — BufferGeometry         ← AB NEXT
 
       └── Lesson 7 — Custom Geometry   
 │
