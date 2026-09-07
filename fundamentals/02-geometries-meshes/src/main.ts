@@ -3,7 +3,8 @@ import "./style.css";
 // import "./parameters";
 // import "./segments";
 // import "./built-in-geometries";
-import "./buffer-geometry";
+// import "./buffer-geometry";
+import "./custome-geomtery";
 
 // const scene = new THREE.Scene();
 
