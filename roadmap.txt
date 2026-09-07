@@ -3,7 +3,6 @@ PHASE 1 — FUNDAMENTALS
 ├── 01 Scene + Camera + Renderer        ✅ COMPLETE
 │
 ├── 02 Geometries + Meshes 
-│
       ├── Lesson 1 — Geometry Basics        ✅ COMPLETE
 
       ├── Lesson 2 — Geometry Parameters    ✅ COMPLETE
@@ -16,9 +15,23 @@ PHASE 1 — FUNDAMENTALS
 
       ├── Lesson 6 — BufferGeometry         ✅ COMPLETE
 
-      └── Lesson 7 — Custom Geometry        ← AB NEXT
+      └── Lesson 7 — Custom Geometry        ✅ COMPLETE
 │
-├── 03 Materials
+|──03 Materials
+      ── MeshBasicMaterial                  ← AB NEXT
+      ── MeshStandardMaterial
+      ── MeshPhysicalMaterial
+      ── MeshLambertMaterial
+      ── MeshPhongMaterial
+      ── color
+      ── roughness
+      ── metalness
+      ── opacity
+      ── transparent
+      ── side
+      ── flatShading
+      ── wireframe
+      └── material performance
 │
 ├── 04 Textures
 │
