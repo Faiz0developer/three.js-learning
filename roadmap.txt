@@ -34,6 +34,26 @@ PHASE 1 — FUNDAMENTALS
       └──material performance
 │
 ├── 04 Textures
+        Texture basics
+        TextureLoader
+        UV mapping
+        Texture coordinates
+        Repeat
+        Offset
+        Rotation
+        Wrapping
+        Filtering
+        Color space
+        Texture maps
+             ↓
+        color map
+        roughness map
+        metalness map
+        normal map
+             ↓
+        PBR textured material
+             ↓
+        Product Showcase V3
 │
 ├── 05 Lights + Shadows                 ✅ Basics done
 │
