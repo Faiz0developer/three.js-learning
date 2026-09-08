@@ -31,7 +31,7 @@ PHASE 1 — FUNDAMENTALS
       ── side
       ── flatShading
       ── wireframe
-      └── material performance
+      └──material performance
 │
 ├── 04 Textures
 │
